@@ -15,7 +15,7 @@ Currently in Jenkins please pick `Publish JUnit test result report` (not
 
 # Install
 
-    go get github.com/tebeka/go2xunit
+    go install github.com/tebeka/go2xunit@main
 
 
 # Usage
